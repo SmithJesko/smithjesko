@@ -353,10 +353,10 @@ form .submit:hover{
         width: 0;
     }
     50% {
-        width: 26em;
+        width: 32em;
     }
     100% {
-        width: 26em;
+        width: 32em;
     }
 }
 
